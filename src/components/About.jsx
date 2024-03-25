@@ -49,12 +49,13 @@ const About = () => {
               A Bit About Me
             </Typography>
             <Typography
-              width="520px"
+              width={{ lg: '520px', sm: '600px', xs: '600px' }}
               mt="2rem"
               color="#fff"
-              lineHeight="1.7rem"
+              lineHeight={{ lg: '1.7rem', sm: '2.3rem', xs: '2.3rem' }}
               ml={{ lg: '0rem', sm: '3rem', xs: '3rem' }}
-              fontWeight={600}
+              // fontWeight={600}
+              fontSize={{ lg: '1rem', sm: '1.5rem', xs: '1.5rem' }}
             >
               Hey there! I'm Theophilus Confidence, a frontend developer on a
               mission to craft memorable digital experiences. I've honed my

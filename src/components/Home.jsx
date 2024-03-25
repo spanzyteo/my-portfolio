@@ -4,6 +4,7 @@ import myPicture from '../images/my-picture.JPG'
 import backgroundImage from '../images/transparent-bg-portfolio.png'
 import Media from './Media'
 import About from './About'
+import Projects from './Projects'
 
 const Home = () => {
   return (
@@ -48,6 +49,7 @@ const Home = () => {
               width="400px"
               mt="-1rem"
               lineHeight="2rem"
+              fontSize={{ lg: '1rem', sm: '1.5rem', xs: '1.5rem' }}
             >
               Frontend Developer passionate about creating user-friendly and
               innovative web applications. Open to new opportunities.
@@ -135,6 +137,7 @@ const Home = () => {
         </Stack>
       </Box>
       <About />
+      <Projects />
     </>
   )
 }

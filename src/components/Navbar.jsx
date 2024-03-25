@@ -38,8 +38,11 @@ const Navbar = () => {
           <Link to="/about" style={{ textDecoration: 'none' }}>
             <Typography color="#fff">ABOUT</Typography>
           </Link>
-          <Link to="/contact" style={{ textDecoration: 'none' }}>
+          <Link style={{ textDecoration: 'none' }}>
             <Typography color="#fff">CONTACT</Typography>
+          </Link>
+          <Link style={{ textDecoration: 'none' }}>
+            <Typography color="#fff">PROJECTS</Typography>
           </Link>
           <Link to="/contact" style={{ textDecoration: 'none' }}>
             <button
