@@ -5,6 +5,7 @@ import backgroundImage from '../images/transparent-bg-portfolio.png'
 import Media from './Media'
 import About from './About'
 import Projects from './Projects'
+import Contact from './Contact'
 
 const Home = () => {
   return (
@@ -138,6 +139,7 @@ const Home = () => {
       </Box>
       <About />
       <Projects />
+      <Contact />
     </>
   )
 }

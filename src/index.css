@@ -27,3 +27,13 @@ button:active {
   opacity: 0.4;
   transition: opacity 0.3s ease;
 }
+
+.email-button {
+  width: 450px;
+}
+
+@media (max-width: 992px) {
+  .email-button {
+    width: 90%;
+  }
+}
