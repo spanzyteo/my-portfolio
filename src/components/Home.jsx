@@ -9,7 +9,7 @@ import Contact from './Contact'
 
 const Home = () => {
   return (
-    <>
+    <Box>
       <Box
         sx={{
           backgroundImage: `url(${backgroundImage})`,
@@ -22,7 +22,7 @@ const Home = () => {
           justifyContent="space-between"
         >
           <Stack
-            mt={{ lg: '17rem', sm: '16rem', xs: '16rem' }}
+            mt={{ lg: '17rem', sm: '12rem', xs: '12rem' }}
             display="flex"
             flexDirection="column"
             ml={{ lg: '6rem', sm: '1rem', xs: '1rem' }}
@@ -31,7 +31,7 @@ const Home = () => {
               Hello, I'm
             </Typography>
             <Typography
-              variant="h1"
+              fontSize={{ lg: '4rem', sm: '3rem', xs: '3rem' }}
               fontFamily="Teko"
               // color="white"
               fontWeight={400}
@@ -47,7 +47,7 @@ const Home = () => {
             </Typography>
             <Typography
               color="white"
-              width="400px"
+              width={{ lg: '400px', sm: '300px', xs: '300px' }}
               mt="-1rem"
               lineHeight="2rem"
               fontSize={{ lg: '1rem', sm: '1.5rem', xs: '1.5rem' }}
@@ -140,7 +140,7 @@ const Home = () => {
       <About />
       <Projects />
       <Contact />
-    </>
+    </Box>
   )
 }
 

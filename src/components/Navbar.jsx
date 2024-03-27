@@ -6,13 +6,13 @@ const Navbar = () => {
     <Box sx={{ position: 'fixed', top: 0, right: 0, left: 0, zIndex: 999 }}>
       <Stack
         height="120px"
-        width="100%"
+        width={{ lg: '100%', sm: '100%', xs: '100%' }}
         display="flex"
         flexDirection="row"
         alignItems="center"
         justifyContent="space-between"
         sx={{ outline: '0px none rgb(0, 0, 0)' }}
-        borderBottom="3px solid rgb(18, 18, 18)"
+        borderBottom="2px solid rgb(18, 18, 18)"
         bgcolor="rgba(0, 0, 0, 0.3)"
       >
         <Stack>

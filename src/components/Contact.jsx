@@ -89,9 +89,8 @@ const Contact = () => {
           </Typography>
           <Typography
             mt="1rem"
-            variant="h2"
             fontFamily="Fjalla one"
-            letterSpacing="0.3rem"
+            fontSize={{ lg: '3rem', sm: '2rem', xs: '2rem' }}
           >
             Connect with me
           </Typography>
@@ -109,7 +108,7 @@ const Contact = () => {
               helperText={errors.from_name}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '90%', xs: '90%' },
+                width: { lg: '450px', sm: '100%', xs: '100%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />
@@ -122,7 +121,7 @@ const Contact = () => {
               helperText={errors.from_email}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '90%', xs: '90%' },
+                width: { lg: '450px', sm: '100%', xs: '100%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />
@@ -136,7 +135,7 @@ const Contact = () => {
               helperText={errors.message}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '90%', xs: '90%' },
+                width: { lg: '450px', sm: '100%', xs: '100%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />
@@ -144,7 +143,7 @@ const Contact = () => {
               className="email-button"
               type="submit"
               style={{
-                marginTop: '5rem',
+                marginTop: '3rem',
                 border: 'none',
                 backgroundColor: 'rgb(80, 200, 239)',
                 paddingTop: '1rem',

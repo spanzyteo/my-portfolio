@@ -21,14 +21,27 @@ const About = () => {
           <Desktop />
         </Stack>
         <Stack display="flex" flexDirection="column" mt="2rem">
-          <Stack ml={{ lg: '24rem', sm: '30rem', xs: '30rem' }}>
-            <img
-              style={{ height: '90px', width: '90px', marginRight: '8rem' }}
-              src={laptopIcon}
-              alt="laptop-icon"
-            />
+          <Stack
+            display="flex"
+            flexDirection="row"
+            alignItems="center"
+            justifyContent="space-between"
+          >
+            <Stack></Stack>
+            <Stack mr={{ lg: '3rem', sm: '0rem', xs: '0rem' }}>
+              <img
+                className="laptop-image"
+                style={{ height: '90px', width: '90px' }}
+                src={laptopIcon}
+                alt="laptop-icon"
+              />
+            </Stack>
           </Stack>
-          <Stack display="flex" flexDirection="column">
+          <Stack
+            display="flex"
+            flexDirection="column"
+            mr={{ lg: '3rem', sm: '0rem', xs: '0rem' }}
+          >
             <Typography
               mr={{ lg: '0rem', sm: '0rem', xs: '0rem' }}
               ml={{ lg: '0rem', sm: '3rem', xs: '3rem' }}
@@ -40,22 +53,22 @@ const About = () => {
             </Typography>
             <Typography
               mt="1rem"
-              variant="h2"
               color="#fff"
               fontFamily="Fjalla one"
               letterSpacing="0.3rem"
               ml={{ lg: '0rem', sm: '3rem', xs: '3rem' }}
+              fontSize={{ lg: '3rem', sm: '2rem', xs: '2rem' }}
             >
               A Bit About Me
             </Typography>
             <Typography
-              width={{ lg: '520px', sm: '600px', xs: '600px' }}
+              width={{ lg: '520px', sm: '300px', xs: '300px' }}
               mt="2rem"
               color="#fff"
               lineHeight={{ lg: '1.7rem', sm: '2.3rem', xs: '2.3rem' }}
               ml={{ lg: '0rem', sm: '3rem', xs: '3rem' }}
               // fontWeight={600}
-              fontSize={{ lg: '1rem', sm: '1.5rem', xs: '1.5rem' }}
+              fontSize={{ lg: '1rem', sm: '1.3rem', xs: '1.3rem' }}
             >
               Hey there! I'm Theophilus Confidence, a frontend developer on a
               mission to craft memorable digital experiences. I've honed my
