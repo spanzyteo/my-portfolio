@@ -72,7 +72,10 @@ const Contact = () => {
         backgroundSize: 'cover',
       }}
     >
-      <Stack display="flex" flexDirection="row">
+      <Stack
+        display="flex"
+        flexDirection={{ lg: 'row', sm: 'column', xs: 'column' }}
+      >
         <Stack
           mt="3rem"
           display="flex"
@@ -108,7 +111,7 @@ const Contact = () => {
               helperText={errors.from_name}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '100%', xs: '100%' },
+                width: { lg: '450px', sm: '90%', xs: '90%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />
@@ -121,7 +124,7 @@ const Contact = () => {
               helperText={errors.from_email}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '100%', xs: '100%' },
+                width: { lg: '450px', sm: '90%', xs: '90%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />
@@ -135,7 +138,7 @@ const Contact = () => {
               helperText={errors.message}
               sx={{
                 mt: '1rem',
-                width: { lg: '450px', sm: '100%', xs: '100%' },
+                width: { lg: '450px', sm: '90%', xs: '90%' },
                 bgcolor: 'rgb(235, 243, 252)',
               }}
             />

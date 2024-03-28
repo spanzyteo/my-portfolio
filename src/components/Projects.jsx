@@ -43,13 +43,17 @@ const Projects = () => {
           flexDirection={{ lg: 'row', sm: 'column', xs: 'column' }}
           mt="2rem"
           gap={3}
+          mr={{ lg: '0rem', sm: '1rem', xs: '1rem' }}
+          ml={{ lg: '0rem', sm: '1rem', xs: '1rem' }}
           // alignItems="center"
           // justifyContent="center"
         >
           {projects.map((item) => (
             <Card
               key={item.id}
-              sx={{ width: { lg: '350px', sm: '100%', xs: '100%' } }}
+              sx={{
+                width: { lg: '350px', sm: '100%', xs: '100%' },
+              }}
             >
               <Link
                 to={`${item.link}`}
@@ -72,13 +76,7 @@ const Projects = () => {
                     >
                       {item.name}
                     </Typography>
-                    <Typography
-                      variant="body2"
-                      // color="text.secondary"
-                      // fontWeight={600}
-                    >
-                      {item.description}
-                    </Typography>
+                    <Typography variant="body2">{item.description}</Typography>
                   </CardContent>
                 </CardActionArea>
               </Link>

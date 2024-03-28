@@ -2,13 +2,8 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  /* background-image: url(./images/transparent-bg-portfolio.png); */
   background-size: cover;
-  /* background-repeat: no-repeat; */
-  /* background-attachment: scroll; */
   background-color: rgb(31, 29, 38);
-  /* background-origin: padding-box; */
-  /* outline: 0px none rgb(0, 0, 0); */
   position: relative;
   display: block;
   height: 100vh;
@@ -32,8 +27,48 @@ button:active {
   width: 450px;
 }
 
+.sidebar {
+  width: 280px;
+  height: 100vh;
+  background-color: rgb(31, 29, 38);
+  color: black;
+  position: fixed;
+  top: 0;
+  right: 0;
+  transition: transform 0.3s ease-in-out;
+  z-index: 100;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar.close {
+  transform: translateX(100%);
+}
+
+.hire-me-button {
+  background-color: rgb(80, 200, 239);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+
 @media (max-width: 992px) {
   .email-button {
-    width: 100%;
+    width: 90%;
+  }
+
+  .hire-me-button {
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
   }
 }
