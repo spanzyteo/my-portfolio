@@ -6,8 +6,12 @@ import Media from './Media'
 import About from './About'
 import Projects from './Projects'
 import Contact from './Contact'
+import resume from '../resume/Confidence-Theophilus-FlowCV-Resume-20240319.pdf'
 
 const Home = () => {
+  const openResume = () => {
+    window.open(resume, '_blank')
+  }
   return (
     <Box>
       <Box
@@ -57,6 +61,7 @@ const Home = () => {
             </Typography>
             <button
               className="resume-btn"
+              onClick={openResume}
               style={{
                 marginTop: '1rem',
                 display: 'flex',
@@ -70,6 +75,7 @@ const Home = () => {
                 gap: '10px',
                 color: 'white',
                 fontSize: '1rem',
+                cursor: 'pointer',
               }}
             >
               My Resume{' '}

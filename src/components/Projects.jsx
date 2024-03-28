@@ -10,10 +10,30 @@ import {
 import backgroundImage from '../images/transparent-bg-portfolio.png'
 import { projects } from '../utils/projects'
 import { Link } from 'react-router-dom'
+import { useEffect, useRef } from 'react'
+import { useCart } from '../Context'
+import { useLocation } from 'react-router-dom'
 
 const Projects = () => {
+  const projectRef = useRef(null)
+  const { state, dispatch } = useCart()
+  const location = useLocation()
+
+  useEffect(() => {
+    dispatch({ type: 'SET_PROJECT_REF', payload: projectRef })
+    if (location.state && location.state.scrollToProject) {
+      const projectElement = projectRef.current
+      if (projectElement) {
+        projectElement.scrollIntoView({ behavior: 'smooth' })
+      }
+    }
+  }, [projectRef, dispatch, location])
+
   return (
-    <Box sx={{ backgroundImage: `url(${backgroundImage})`, pb: '5rem' }}>
+    <Box
+      ref={projectRef}
+      sx={{ backgroundImage: `url(${backgroundImage})`, pb: '5rem' }}
+    >
       <Stack
         display="flex"
         flexDirection="column"
