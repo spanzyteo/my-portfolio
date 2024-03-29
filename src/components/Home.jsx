@@ -6,7 +6,7 @@ import Media from './Media'
 import About from './About'
 import Projects from './Projects'
 import Contact from './Contact'
-import resume from '../resume/Confidence-Theophilus-FlowCV-Resume-20240319.pdf'
+import resume from '../resume/resume.pdf'
 
 const Home = () => {
   const openResume = () => {
