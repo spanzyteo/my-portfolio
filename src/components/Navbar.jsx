@@ -2,6 +2,7 @@ import { Box, Stack, Typography } from '@mui/material'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useCart } from '../Context'
+import myLogo from '../images/my-logo.png'
 
 const Navbar = () => {
   const { state } = useCart()
@@ -37,7 +38,7 @@ const Navbar = () => {
       >
         <Stack>
           <Link to="/" style={{ textDecoration: 'none' }}>
-            <Typography
+            {/* <Typography
               color="#fff"
               sx={{ textShadow: '1px 1px 2px rgba(0, 0, 0, 0.5)' }}
               variant="h5"
@@ -46,7 +47,14 @@ const Navbar = () => {
               fontSize={{ lg: '2rem', sm: '1.2rem', xs: '1.2rem' }}
             >
               CONFIDENCE
-            </Typography>
+            </Typography> */}
+            <Stack ml={{ lg: '3rem', sm: '1rem', xs: '1rem' }}>
+              <img
+                style={{ height: '120px', width: '120px' }}
+                src={myLogo}
+                alt="my-logo"
+              />
+            </Stack>
           </Link>
         </Stack>
         <Stack

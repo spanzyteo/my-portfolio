@@ -1,6 +1,6 @@
 import { Box, Stack, Typography } from '@mui/material'
 import diagonalArrow from '../images/diagonal-arrow.png'
-import myPicture from '../images/my-picture.JPG'
+import myPicture from '../images/my-picture.jpeg'
 import backgroundImage from '../images/transparent-bg-portfolio.png'
 import Media from './Media'
 import About from './About'
@@ -103,16 +103,16 @@ const Home = () => {
               position="absolute"
               height="450px"
               width="320px"
-              bgcolor="rgb(88, 56, 149)"
-              sx={{ opacity: 0.4 }}
+              bgcolor="rgb(80, 200, 239)"
+              sx={{ opacity: 0.2 }}
               mt="2rem"
               ml="2rem"
             ></Stack>
             <Stack position="absolute" display="flex" flexDirection="column">
               <Typography
-                mt="6rem"
-                variant="h1"
-                ml="-9rem"
+                mt="10rem"
+                variant="h2"
+                ml="-2rem"
                 fontFamily="Fjalla one"
                 fontWeight={400}
                 letterSpacing={6}
@@ -125,9 +125,9 @@ const Home = () => {
                 Confidence
               </Typography>
               <Typography
-                mt="1rem"
-                variant="h1"
-                ml="-2rem"
+                mt="0rem"
+                variant="h2"
+                ml="1rem"
                 fontFamily="Fjalla one"
                 fontWeight={400}
                 letterSpacing={6}
