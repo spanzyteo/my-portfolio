@@ -63,6 +63,7 @@ const Projects = () => {
           flexDirection={{ lg: 'row', sm: 'column', xs: 'column' }}
           mt="2rem"
           gap={3}
+          mr={{ lg: '0rem', sm: '0rem', xs: '2rem' }}
           ml={{ lg: '0rem', sm: '2rem', xs: '2rem' }}
           // alignItems="center"
           // justifyContent="center"
