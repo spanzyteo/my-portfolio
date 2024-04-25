@@ -63,8 +63,7 @@ const Projects = () => {
           flexDirection={{ lg: 'row', sm: 'column', xs: 'column' }}
           mt="2rem"
           gap={3}
-          mr={{ lg: '0rem', sm: '1rem', xs: '1rem' }}
-          ml={{ lg: '0rem', sm: '1rem', xs: '1rem' }}
+          ml={{ lg: '0rem', sm: '2rem', xs: '2rem' }}
           // alignItems="center"
           // justifyContent="center"
         >
@@ -72,7 +71,7 @@ const Projects = () => {
             <Card
               key={item.id}
               sx={{
-                width: { lg: '350px', sm: '100%', xs: '100%' },
+                width: { lg: '350px', sm: '90%', xs: '100%' },
               }}
             >
               <Link

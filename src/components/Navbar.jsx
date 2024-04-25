@@ -38,17 +38,7 @@ const Navbar = () => {
       >
         <Stack>
           <Link to="/" style={{ textDecoration: 'none' }}>
-            {/* <Typography
-              color="#fff"
-              sx={{ textShadow: '1px 1px 2px rgba(0, 0, 0, 0.5)' }}
-              variant="h5"
-              ml={{ lg: '3rem', sm: '1rem', xs: '1rem' }}
-              fontWeight={700}
-              fontSize={{ lg: '2rem', sm: '1.2rem', xs: '1.2rem' }}
-            >
-              CONFIDENCE
-            </Typography> */}
-            <Stack ml={{ lg: '3rem', sm: '1rem', xs: '1rem' }}>
+            <Stack ml={{ lg: '4rem', sm: '0.3rem', xs: '0.5rem' }}>
               <img
                 style={{ height: '120px', width: '120px' }}
                 src={myLogo}

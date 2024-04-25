@@ -29,7 +29,7 @@ const Home = () => {
             mt={{ lg: '17rem', sm: '12rem', xs: '12rem' }}
             display="flex"
             flexDirection="column"
-            ml={{ lg: '6rem', sm: '1rem', xs: '1rem' }}
+            ml={{ lg: '6rem', sm: '2rem', xs: '2rem' }}
           >
             <Typography variant="h3" color="white" fontFamily="Fjalla one">
               Hello, I'm
@@ -110,7 +110,7 @@ const Home = () => {
             ></Stack>
             <Stack position="absolute" display="flex" flexDirection="column">
               <Typography
-                mt="10rem"
+                mt="12rem"
                 variant="h2"
                 ml="-2rem"
                 fontFamily="Fjalla one"
@@ -118,7 +118,7 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'rgb(153, 213, 198)',
+                  WebkitTextStrokeColor: 'blue',
                   WebkitTextStrokeWidth: '1px',
                 }}
               >
@@ -133,7 +133,7 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'rgb(153, 213, 198)',
+                  WebkitTextStrokeColor: 'blue',
                   WebkitTextStrokeWidth: '1px',
                 }}
               >
