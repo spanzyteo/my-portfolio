@@ -104,13 +104,13 @@ const Home = () => {
               height="450px"
               width="320px"
               bgcolor="rgb(80, 200, 239)"
-              sx={{ opacity: 0.2 }}
+              sx={{ opacity: 0.1 }}
               mt="2rem"
               ml="2rem"
             ></Stack>
             <Stack position="absolute" display="flex" flexDirection="column">
               <Typography
-                mt="12rem"
+                mt="13rem"
                 variant="h2"
                 ml="-2rem"
                 fontFamily="Fjalla one"
@@ -118,7 +118,7 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'blue',
+                  WebkitTextStrokeColor: 'rgb(80, 200, 239)',
                   WebkitTextStrokeWidth: '1px',
                 }}
               >
@@ -133,7 +133,7 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'blue',
+                  WebkitTextStrokeColor: 'rgb(80, 200, 239)',
                   WebkitTextStrokeWidth: '1px',
                 }}
               >

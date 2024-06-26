@@ -59,20 +59,22 @@ const Projects = () => {
           </Typography>
         </Stack>
         <Stack
-          display="flex"
-          flexDirection={{ lg: 'row', sm: 'column', xs: 'column' }}
-          mt="2rem"
+          display="grid"
+          gridTemplateColumns={{
+            lg: 'repeat(3, 1fr)',
+            sm: 'repeat(2, 1fr)',
+            xs: '1fr',
+          }}
           gap={3}
+          mt="2rem"
           mr={{ lg: '0rem', sm: '0rem', xs: '2rem' }}
           ml={{ lg: '0rem', sm: '2rem', xs: '2rem' }}
-          // alignItems="center"
-          // justifyContent="center"
         >
           {projects.map((item) => (
             <Card
               key={item.id}
               sx={{
-                width: { lg: '350px', sm: '90%', xs: '100%' },
+                width: { lg: '90%', sm: '90%', xs: '100%' },
               }}
             >
               <Link
