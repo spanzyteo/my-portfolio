@@ -104,7 +104,7 @@ const Home = () => {
               height="450px"
               width="320px"
               bgcolor="rgb(80, 200, 239)"
-              sx={{ opacity: 0.1 }}
+              sx={{ opacity: 0.2 }}
               mt="2rem"
               ml="2rem"
             ></Stack>
@@ -118,8 +118,8 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'rgb(80, 200, 239)',
-                  WebkitTextStrokeWidth: '1px',
+                  WebkitTextStrokeColor: 'black',
+                  WebkitTextStrokeWidth: '2px',
                 }}
               >
                 Confidence
@@ -133,8 +133,8 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'rgb(80, 200, 239)',
-                  WebkitTextStrokeWidth: '1px',
+                  WebkitTextStrokeColor: 'black',
+                  WebkitTextStrokeWidth: '2px',
                 }}
               >
                 Theophilus
