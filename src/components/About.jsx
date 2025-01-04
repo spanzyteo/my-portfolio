@@ -68,21 +68,22 @@ const About = () => {
               lineHeight={{ lg: '1.7rem', sm: '2.3rem', xs: '2.3rem' }}
               ml={{ lg: '0rem', sm: '2rem', xs: '2rem' }}
               // fontWeight={600}
-              fontSize={{ lg: '1rem', sm: '1.3rem', xs: '1.3rem' }}
+              fontSize={{ lg: '1rem', sm: '1rem', xs: '1rem' }}
             >
-              Hey there! I'm Theophilus Confidence, a frontend developer on a
-              mission to craft memorable digital experiences. I've honed my
-              skills in HTML, CSS, and JavaScript to transform visions into
-              stunning interfaces. Driven by curiosity and a relentless pursuit
-              of excellence, I immerse myself in the latest trends and
-              technologies, ensuring that every project I undertake is not just
-              functional but also future-proof. Beyond the code, I'm passionate
-              about collaboration and teamwork. I thrive in environments where
-              ideas flow freely and diverse perspectives are valued. Whether
-              it's brainstorming creative solutions or fine-tuning user
-              interfaces, I believe that the best results are achieved through
-              collaboration and synergy. Let's connect and embark on a journey
-              to create digital experiences that leave a lasting impact!
+              Hello! I’m Theophilus Confidence, a frontend developer passionate
+              about creating engaging digital experiences. With expertise in
+              HTML, CSS, JavaScript, and modern frameworks like Next.js,
+              React.js, and TypeScript. I build dynamic, responsive, and
+              user-friendly interfaces. I’ve worked on diverse projects,
+              including blockchain applications, inventory management systems,
+              ecommerce platforms, and a Telegram mini app. I specialize in
+              interactive animations with Framer Motion and GSAP, efficient
+              styling using Tailwind CSS, and state management with Redux.
+              Driven by curiosity and continuous learning, I stay updated with
+              the latest technologies to ensure scalable, future-ready
+              solutions. I thrive in collaborative environments where creativity
+              and teamwork fuel innovative outcomes. Let’s connect to bring your
+              ideas to life with impactful, modern web solutions!
             </Typography>
           </Stack>
         </Stack>

@@ -54,7 +54,7 @@ const Home = () => {
               width={{ lg: '400px', sm: '300px', xs: '300px' }}
               mt="1rem"
               lineHeight="2rem"
-              fontSize={{ lg: '1rem', sm: '1.5rem', xs: '1.5rem' }}
+              fontSize={{ lg: '1rem', sm: '1.3rem', xs: '1.3rem' }}
             >
               A Frontend Developer passionate about creating user-friendly and
               innovative web applications. Open to new opportunities.

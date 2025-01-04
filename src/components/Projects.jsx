@@ -50,7 +50,7 @@ const Projects = () => {
           </Typography>
           <Typography
             mt="1rem"
-            variant="h2"
+            variant="h4"
             color="#fff"
             fontFamily="Fjalla one"
             letterSpacing="0.3rem"
