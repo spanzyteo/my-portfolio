@@ -70,15 +70,15 @@ const About = () => {
               // fontWeight={600}
               fontSize={{ lg: '1rem', sm: '1rem', xs: '1rem' }}
             >
-              Hello! I’m Theophilus Confidence, a frontend developer passionate
+              Hello! I’m Theophilus Confidence, a frontend Engineer passionate
               about creating engaging digital experiences. With expertise in
-              HTML, CSS, JavaScript, and modern frameworks like Next.js,
-              React.js, and TypeScript. I build dynamic, responsive, and
+              HTML, CSS, JavaScript, TypeScript and modern frameworks like
+              Next.js, React.js, and Svelte. I build dynamic, responsive, and
               user-friendly interfaces. I’ve worked on diverse projects,
               including blockchain applications, inventory management systems,
               ecommerce platforms, and a Telegram mini app. I specialize in
               interactive animations with Framer Motion and GSAP, efficient
-              styling using Tailwind CSS, and state management with Redux.
+              styling using Tailwind CSS, Material-UI and state management with Redux, useContext and useReducer.
               Driven by curiosity and continuous learning, I stay updated with
               the latest technologies to ensure scalable, future-ready
               solutions. I thrive in collaborative environments where creativity

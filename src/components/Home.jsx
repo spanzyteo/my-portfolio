@@ -56,7 +56,7 @@ const Home = () => {
               lineHeight="2rem"
               fontSize={{ lg: '1rem', sm: '1.3rem', xs: '1.3rem' }}
             >
-              A Frontend Developer passionate about creating user-friendly and
+              A Frontend Engineer passionate about creating user-friendly and
               innovative web applications. Open to new opportunities.
             </Typography>
             <button
