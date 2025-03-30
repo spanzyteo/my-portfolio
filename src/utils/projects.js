@@ -8,16 +8,16 @@ import extreme from '../images/extreme-img.png'
 import jiamuqu from '../images/jiamuqu.png'
 
 export const projects = [
-  // {
-  //   id: 2,
-  //   name: 'Real Estate',
-  //   image: mernEstate,
-  //   description:
-  //     'I developed a fullstack estate management platform, enabling users to browse and search for properties, and landlords to post listings. The platform features a user-friendly interface, detailed property information, and secure transactions, showcasing my skills in frontend and backend development.',
-  //   link: 'https://mern-estate-baki.onrender.com/',
-  // },
   {
     id: 0,
+    name: 'Ecommerce Furniture Site',
+    image: furniture,
+    description:
+      'Developed an ecommerce furniture platform using Next.js, TypeScript, and Tailwind CSS. The site features a dynamic product catalog, a responsive shopping cart, and an admin page for managing products and orders. Currently focused on enhancing user experience with interactive UI elements and scalable architecture.',
+    link: 'https://furniture-cart-inky.vercel.app/',
+  },
+  {
+    id: 1,
     name: 'Extreme (Work In Progress)',
     image: extreme,
     description:
@@ -25,21 +25,21 @@ export const projects = [
     link: 'https://extreme-flax.vercel.app/',
   },
   {
-    id: 1,
-    name: 'Ecommerce Furniture Site',
-    image: furniture,
+    id: 2,
+    name: 'Real Estate',
+    image: mernEstate,
     description:
-      'Developed an ecommerce furniture platform using Next.js, TypeScript, and Tailwind CSS. The site features a dynamic product catalog, a responsive shopping cart, and an admin page for managing products and orders. Currently focused on enhancing user experience with interactive UI elements and scalable architecture.',
-    link: 'https://furniture-cart-inky.vercel.app/',
+      'I developed a fullstack estate management platform, enabling users to browse and search for properties, and landlords to post listings. The platform features a user-friendly interface, detailed property information, and secure transactions, showcasing my skills in frontend and backend development.',
+    link: 'https://mern-estate-baki.onrender.com/',
   },
-  // {
-  //   id: 2,
-  //   name: 'Fifa Stream',
-  //   image: fifaStream,
-  //   description:
-  //     'I developed the frontend for FIFA, a blockchain site for football enthusiasts. The platform offers a seamless interface for managing digital assets, interacting with decentralized apps, and conducting secure transactions.',
-  //   link: 'https://fifa-token.vercel.app/',
-  // },
+  {
+    id: 2,
+    name: 'Fifa Stream',
+    image: fifaStream,
+    description:
+      'I developed the frontend for FIFA, a blockchain site for football enthusiasts. The platform offers a seamless interface for managing digital assets, interacting with decentralized apps, and conducting secure transactions.',
+    link: 'https://fifa-token.vercel.app/',
+  },
   {
     id: 2,
     name: 'Jiamuqu',

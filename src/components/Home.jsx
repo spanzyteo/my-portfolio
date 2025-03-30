@@ -110,7 +110,7 @@ const Home = () => {
             ></Stack>
             <Stack position="absolute" display="flex" flexDirection="column">
               <Typography
-                mt="13rem"
+                mt="16rem"
                 variant="h2"
                 ml="-2rem"
                 fontFamily="Fjalla one"
@@ -118,8 +118,8 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'black',
-                  WebkitTextStrokeWidth: '2px',
+                  WebkitTextStrokeColor: 'white',
+                  WebkitTextStrokeWidth: '1px',
                 }}
               >
                 Confidence
@@ -133,8 +133,8 @@ const Home = () => {
                 letterSpacing={6}
                 sx={{
                   WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'black',
-                  WebkitTextStrokeWidth: '2px',
+                  WebkitTextStrokeColor: 'white',
+                  WebkitTextStrokeWidth: '1px',
                 }}
               >
                 Theophilus

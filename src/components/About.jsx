@@ -71,19 +71,19 @@ const About = () => {
               fontSize={{ lg: '1rem', sm: '1rem', xs: '1rem' }}
             >
               Hello! I’m Theophilus Confidence, a frontend Engineer passionate
-              about creating engaging digital experiences. With expertise in
-              HTML, CSS, JavaScript, TypeScript and modern frameworks like
-              Next.js, React.js, and Svelte. I build dynamic, responsive, and
-              user-friendly interfaces. I’ve worked on diverse projects,
-              including blockchain applications, inventory management systems,
-              ecommerce platforms, and a Telegram mini app. I specialize in
-              interactive animations with Framer Motion and GSAP, efficient
-              styling using Tailwind CSS, Material-UI and state management with Redux, useContext and useReducer.
-              Driven by curiosity and continuous learning, I stay updated with
-              the latest technologies to ensure scalable, future-ready
-              solutions. I thrive in collaborative environments where creativity
-              and teamwork fuel innovative outcomes. Let’s connect to bring your
-              ideas to life with impactful, modern web solutions!
+              and results-driven Frontend Developer with expertise in React.js,
+              Next.js, TypeScript, Tailwind CSS and more. I specialize in building
+              scalable, high-performance web applications with a strong focus on
+              UI/UX, state management, and responsive design. With a solid
+              understanding of backend technologies such as Node.js, Express.js,
+              Firebase, MongoDB, Mysql. I effectively collaborate with backend
+              teams to ensure seamless API integrations and smooth data flow
+              across applications. Driven by curiosity and continuous learning,
+              I stay updated with the latest technologies to ensure scalable,
+              future-ready solutions. I thrive in collaborative environments
+              where creativity and teamwork fuel innovative outcomes. Let’s
+              connect to bring your ideas to life with impactful, modern web
+              solutions!
             </Typography>
           </Stack>
         </Stack>
