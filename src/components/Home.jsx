@@ -26,24 +26,24 @@ const Home = () => {
           justifyContent="space-between"
         >
           <Stack
-            mt={{ lg: '17rem', sm: '12rem', xs: '12rem' }}
+            mt={{ lg: "17rem", sm: "12rem", xs: "12rem" }}
             display="flex"
             flexDirection="column"
-            ml={{ lg: '6rem', sm: '2rem', xs: '2rem' }}
+            ml={{ lg: "6rem", sm: "2rem", xs: "2rem" }}
           >
             <Typography variant="h3" color="white" fontFamily="Fjalla one">
-              Hello, I'm
+              Hello, I&apos;m
             </Typography>
             <Typography
-              fontSize={{ lg: '4rem', sm: '3rem', xs: '3rem' }}
+              fontSize={{ lg: "4rem", sm: "3rem", xs: "3rem" }}
               fontFamily="Teko"
               // color="white"
               fontWeight={400}
               sx={{
-                background: 'linear-gradient(45deg, #2196F3 30%, #21CBF3 90%)',
-                WebkitBackgroundClip: 'text',
-                WebkitTextFillColor: 'transparent',
-                textShadow: '2px 2px 4px rgba(0, 0, 0, 0.2)',
+                background: "linear-gradient(45deg, #2196F3 30%, #21CBF3 90%)",
+                WebkitBackgroundClip: "text",
+                WebkitTextFillColor: "transparent",
+                textShadow: "2px 2px 4px rgba(0, 0, 0, 0.2)",
               }}
               mb="0rem"
             >
@@ -51,36 +51,38 @@ const Home = () => {
             </Typography>
             <Typography
               color="white"
-              width={{ lg: '400px', sm: '300px', xs: '300px' }}
+              width={{ lg: "400px", sm: "300px", xs: "300px" }}
               mt="1rem"
               lineHeight="2rem"
-              fontSize={{ lg: '1rem', sm: '1.3rem', xs: '1.3rem' }}
+              fontSize={{ lg: "1rem", sm: "1.3rem", xs: "1.3rem" }}
             >
-              A Frontend Engineer passionate about creating user-friendly and
-              innovative web applications. Open to new opportunities.
+              Full-Stack Software Developer with 4+ years of experience building
+              scalable, high-performance web applications. Passionate about
+              crafting intuitive, user-focused solutions and open to impactful
+              opportunities.
             </Typography>
             <button
               className="resume-btn"
               onClick={openResume}
               style={{
-                marginTop: '1rem',
-                display: 'flex',
-                alignItems: 'center',
-                padding: '12px 15px',
-                justifyContent: 'center',
-                background: 'linear-gradient(to left, #222222, #666666)',
-                width: '150px',
-                borderRadius: '8px',
-                border: '2px solid blue',
-                gap: '10px',
-                color: 'white',
-                fontSize: '1rem',
-                cursor: 'pointer',
+                marginTop: "1rem",
+                display: "flex",
+                alignItems: "center",
+                padding: "12px 15px",
+                justifyContent: "center",
+                background: "linear-gradient(to left, #222222, #666666)",
+                width: "150px",
+                borderRadius: "8px",
+                border: "2px solid blue",
+                gap: "10px",
+                color: "white",
+                fontSize: "1rem",
+                cursor: "pointer",
               }}
             >
-              My Resume{' '}
+              My Resume{" "}
               <img
-                style={{ height: '15px', width: '15px', color: '#fff' }}
+                style={{ height: "15px", width: "15px", color: "#fff" }}
                 src={diagonalArrow}
                 alt=""
               />
@@ -88,14 +90,14 @@ const Home = () => {
             <Media />
           </Stack>
           <Stack
-            display={{ lg: 'flex', sm: 'none', xs: 'none' }}
+            display={{ lg: "flex", sm: "none", xs: "none" }}
             position="relative"
             mr="12rem"
             mb="5rem"
             mt="14rem"
           >
             <img
-              style={{ height: '450px', width: '320px', objectFit: 'cover' }}
+              style={{ height: "450px", width: "320px", objectFit: "cover" }}
               src={myPicture}
               alt="my-picture"
             />
@@ -117,9 +119,9 @@ const Home = () => {
                 fontWeight={400}
                 letterSpacing={6}
                 sx={{
-                  WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'white',
-                  WebkitTextStrokeWidth: '1px',
+                  WebkitTextFillColor: "rgba(0, 0, 0, 0)",
+                  WebkitTextStrokeColor: "white",
+                  WebkitTextStrokeWidth: "1px",
                 }}
               >
                 Confidence
@@ -132,9 +134,9 @@ const Home = () => {
                 fontWeight={400}
                 letterSpacing={6}
                 sx={{
-                  WebkitTextFillColor: 'rgba(0, 0, 0, 0)',
-                  WebkitTextStrokeColor: 'white',
-                  WebkitTextStrokeWidth: '1px',
+                  WebkitTextFillColor: "rgba(0, 0, 0, 0)",
+                  WebkitTextStrokeColor: "white",
+                  WebkitTextStrokeWidth: "1px",
                 }}
               >
                 Theophilus
@@ -147,7 +149,7 @@ const Home = () => {
       <Projects />
       <Contact />
     </Box>
-  )
+  );
 }
 
 export default Home

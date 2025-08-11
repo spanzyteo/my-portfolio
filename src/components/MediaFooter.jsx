@@ -1,7 +1,6 @@
-import { Box, Stack, Typography } from '@mui/material'
+import { Box, Stack } from '@mui/material'
 import { Link } from 'react-router-dom'
 import github from '../images/github.png'
-import linkedin from '../images/linkedin.png'
 
 const MediaFooter = () => {
   return (

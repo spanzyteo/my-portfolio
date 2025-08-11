@@ -1,7 +1,4 @@
 import { Box, Typography, Stack } from '@mui/material'
-import linkedIn from '../images/linkedin.png'
-import twitter from '../images/twitter.png'
-import github from '../images/github.png'
 import MediaFooter from './MediaFooter'
 
 const Footer = () => {
