@@ -1,16 +1,25 @@
-import sneakersCart from '../images/sneakers-cart.png'
-import exerciseApp from '../images/exercise-app.png'
-import youtubeV3 from '../images/youtube-v3.png'
-import mernEstate from '../images/mern-estate.png'
-import fifaStream from '../images/fifa-stream.png'
-import furniture from '../images/furniture.png'
-import extreme from '../images/extreme-img.png'
-import jiamuqu from '../images/jiamuqu.png'
-import doughnation from '../images/doughnation.png'
+import sneakersCart from "../images/sneakers-cart.png";
+import exerciseApp from "../images/exercise-app.png";
+import youtubeV3 from "../images/youtube-v3.png";
+import mernEstate from "../images/mern-estate.png";
+import fifaStream from "../images/fifa-stream.png";
+import furniture from "../images/furniture.png";
+import extreme from "../images/extreme-img.png";
+import jiamuqu from "../images/jiamuqu.png";
+import doughnation from "../images/doughnation.png";
+import jglobal from "../images/jglobal.png"
 
 export const projects = [
   {
     id: 0,
+    name: "JGlobal Properties",
+    image: jglobal,
+    description:
+      "A full-stack real estate application built for a client to manage and display property listings, featuring a responsive UI and a scalable backend architecture, developed using Next.js, NestJS, TypeScript, and Tailwind CSS.",
+    link: "https://jglobalproperties.vercel.app/",
+  },
+  {
+    id: 1,
     name: "Ecommerce Furniture Site",
     image: furniture,
     description:
@@ -18,7 +27,7 @@ export const projects = [
     link: "https://furniture-cart-inky.vercel.app/",
   },
   {
-    id: 8,
+    id: 2,
     name: "Doughnation",
     image: doughnation,
     description:
@@ -26,7 +35,7 @@ export const projects = [
     link: "https://doughnation.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
     name: "Extreme (Work In Progress)",
     image: extreme,
     description:
@@ -34,7 +43,7 @@ export const projects = [
     link: "https://extreme-flax.vercel.app/",
   },
   {
-    id: 2,
+    id: 4,
     name: "Real Estate",
     image: mernEstate,
     description:
@@ -42,7 +51,7 @@ export const projects = [
     link: "https://mern-estate-baki.onrender.com/",
   },
   {
-    id: 2,
+    id: 5,
     name: "Fifa Stream",
     image: fifaStream,
     description:
@@ -50,7 +59,7 @@ export const projects = [
     link: "https://fifa-token.vercel.app/",
   },
   {
-    id: 2,
+    id: 6,
     name: "Jiamuqu",
     image: jiamuqu,
     description:
@@ -58,7 +67,7 @@ export const projects = [
     link: "https://jiamuqu.vercel.app/",
   },
   {
-    id: 3,
+    id: 7,
     name: "Ecommerce Sneakers Store",
     image: sneakersCart,
     description:
@@ -66,7 +75,7 @@ export const projects = [
     link: "https://sneakers-vcart.vercel.app/",
   },
   {
-    id: 4,
+    id: 8,
     name: "Exercise App",
     image: exerciseApp,
     description:
@@ -74,7 +83,7 @@ export const projects = [
     link: "https://exercise-v2.vercel.app/",
   },
   {
-    id: 5,
+    id: 9,
     name: "Youtube V3 clone",
     image: youtubeV3,
     description:
