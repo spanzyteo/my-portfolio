@@ -36,22 +36,6 @@ export const projects = [
   },
   {
     id: 3,
-    name: "Extreme (Work In Progress)",
-    image: extreme,
-    description:
-      "Extreme is a full-stack web application that combines cryptocurrency trading with flight booking services. Built with Next.js, Tailwind CSS, and Redux for state management, it offers a seamless user experience. The backend is powered by Express.js, ensuring efficient server-side operations, while MySQL handles data management, providing a secure and reliable platform for users to trade crypto assets and book flights effortlessly.",
-    link: "https://extreme-flax.vercel.app/",
-  },
-  {
-    id: 4,
-    name: "Real Estate",
-    image: mernEstate,
-    description:
-      "I developed a fullstack estate management platform, enabling users to browse and search for properties, and landlords to post listings. The platform features a user-friendly interface, detailed property information, and secure transactions, showcasing my skills in frontend and backend development.",
-    link: "https://mern-estate-baki.onrender.com/",
-  },
-  {
-    id: 5,
     name: "Fifa Stream",
     image: fifaStream,
     description:
@@ -59,7 +43,7 @@ export const projects = [
     link: "https://fifa-token.vercel.app/",
   },
   {
-    id: 6,
+    id: 4,
     name: "Jiamuqu",
     image: jiamuqu,
     description:
@@ -67,7 +51,7 @@ export const projects = [
     link: "https://jiamuqu.vercel.app/",
   },
   {
-    id: 7,
+    id: 5,
     name: "Ecommerce Sneakers Store",
     image: sneakersCart,
     description:
@@ -75,7 +59,7 @@ export const projects = [
     link: "https://sneakers-vcart.vercel.app/",
   },
   {
-    id: 8,
+    id: 6,
     name: "Exercise App",
     image: exerciseApp,
     description:
@@ -83,7 +67,7 @@ export const projects = [
     link: "https://exercise-v2.vercel.app/",
   },
   {
-    id: 9,
+    id: 7,
     name: "Youtube V3 clone",
     image: youtubeV3,
     description:

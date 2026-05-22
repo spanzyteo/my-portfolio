@@ -12,7 +12,7 @@ const Media = () => {
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 448 512"
-            fill="rgb(153, 213, 198)"
+            fill="var(--accent-light)"
             width="26"
             height="26"
           >
@@ -23,7 +23,7 @@ const Media = () => {
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 496 512"
-            fill="rgb(153, 213, 198)"
+            fill="var(--accent-light)"
             width="26"
             height="26"
           >
@@ -34,7 +34,7 @@ const Media = () => {
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 512 512"
-            fill="rgb(153, 213, 198)"
+            fill="var(--accent-light)"
             height="26"
             width="26"
           >

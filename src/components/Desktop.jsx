@@ -26,27 +26,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou2-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou2-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou2-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou2-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou2-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -61,27 +61,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou3-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou3-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou3-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou3-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou3-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -96,27 +96,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou4-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou4-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou4-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou4-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou4-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -131,27 +131,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou6-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou6-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou6-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou6-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou6-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -166,27 +166,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou7-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou7-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou7-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou7-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou7-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -201,27 +201,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou8-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou8-fill-1"
               offset="50%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou8-fill-2"
               offset="61%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou8-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou8-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -236,27 +236,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou9-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou9-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou9-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou9-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou9-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -271,27 +271,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou161-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou161-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou161-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou161-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou161-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <linearGradient
@@ -307,12 +307,12 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou162-fill-0"
               offset="0%"
-              stop-color="#3919bb"
+              stopColor="#3919bb"
             ></stop>
             <stop
               id="eWIKZLGb2ou162-fill-1"
               offset="100%"
-              stop-color="#6507fa"
+              stopColor="#6507fa"
             ></stop>
           </linearGradient>
           <radialGradient
@@ -327,27 +327,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou166-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou166-fill-1"
               offset="47%"
-              stop-color="#a92ffb"
+              stopColor="#a92ffb"
             ></stop>
             <stop
               id="eWIKZLGb2ou166-fill-2"
               offset="59%"
-              stop-color="#891cfb"
+              stopColor="#891cfb"
             ></stop>
             <stop
               id="eWIKZLGb2ou166-fill-3"
               offset="73%"
-              stop-color="#6507fa"
+              stopColor="#6507fa"
             ></stop>
             <stop
               id="eWIKZLGb2ou166-fill-4"
               offset="100%"
-              stop-color="#3919bb"
+              stopColor="#3919bb"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -362,27 +362,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou196-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou196-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou196-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou196-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou196-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -397,27 +397,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou199-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou199-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou199-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou199-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou199-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <radialGradient
@@ -432,27 +432,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou203-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou203-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou203-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou203-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou203-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <linearGradient
@@ -468,12 +468,12 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou204-fill-0"
               offset="0%"
-              stop-color="#4f1fec"
+              stopColor="#4f1fec"
             ></stop>
             <stop
               id="eWIKZLGb2ou204-fill-1"
               offset="100%"
-              stop-color="#a92ffb"
+              stopColor="#a92ffb"
             ></stop>
           </linearGradient>
           <radialGradient
@@ -488,27 +488,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou205-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou205-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou205-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou205-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou205-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <linearGradient
@@ -524,27 +524,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou207-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou207-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou207-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou207-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou207-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </linearGradient>
           <radialGradient
@@ -559,27 +559,27 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou208-fill-0"
               offset="0%"
-              stop-color="#e39a65"
+              stopColor="#e39a65"
             ></stop>
             <stop
               id="eWIKZLGb2ou208-fill-1"
               offset="47%"
-              stop-color="#98d4c5"
+              stopColor="#98d4c5"
             ></stop>
             <stop
               id="eWIKZLGb2ou208-fill-2"
               offset="59%"
-              stop-color="#7bb3c7"
+              stopColor="#7bb3c7"
             ></stop>
             <stop
               id="eWIKZLGb2ou208-fill-3"
               offset="73%"
-              stop-color="#5b8fca"
+              stopColor="#5b8fca"
             ></stop>
             <stop
               id="eWIKZLGb2ou208-fill-4"
               offset="100%"
-              stop-color="#593794"
+              stopColor="#593794"
             ></stop>
           </radialGradient>
           <linearGradient
@@ -595,82 +595,82 @@ const Desktop = () => {
             <stop
               id="eWIKZLGb2ou212-fill-0"
               offset="0%"
-              stop-color="#131060"
+              stopColor="#131060"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-1"
               offset="19%"
-              stop-color="#141062"
+              stopColor="#141062"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-2"
               offset="28%"
-              stop-color="#19106a"
+              stopColor="#19106a"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-3"
               offset="36%"
-              stop-color="#221078"
+              stopColor="#221078"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-4"
               offset="42%"
-              stop-color="#2e0f8b"
+              stopColor="#2e0f8b"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-5"
               offset="48%"
-              stop-color="#3e0fa3"
+              stopColor="#3e0fa3"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-6"
               offset="54%"
-              stop-color="#510ec2"
+              stopColor="#510ec2"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-7"
               offset="58%"
-              stop-color="#680de5"
+              stopColor="#680de5"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-8"
               offset="61%"
-              stop-color="#740df8"
+              stopColor="#740df8"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-9"
               offset="62%"
-              stop-color="#7a14f0"
+              stopColor="#7a14f0"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-10"
               offset="68%"
-              stop-color="#9b3cc3"
+              stopColor="#9b3cc3"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-11"
               offset="75%"
-              stop-color="#b75d9d"
+              stopColor="#b75d9d"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-12"
               offset="81%"
-              stop-color="#cc7680"
+              stopColor="#cc7680"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-13"
               offset="88%"
-              stop-color="#dc886c"
+              stopColor="#dc886c"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-14"
               offset="94%"
-              stop-color="#e5935f"
+              stopColor="#e5935f"
             ></stop>
             <stop
               id="eWIKZLGb2ou212-fill-15"
               offset="100%"
-              stop-color="#e8975b"
+              stopColor="#e8975b"
             ></stop>
           </linearGradient>
         </defs>
