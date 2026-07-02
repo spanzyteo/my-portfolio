@@ -173,7 +173,7 @@ const Home = () => {
                     maxWidth: "500px",
                   }}
                 >
-                  With 4+ years of professional experience architecting and
+                  With 5 years of professional experience architecting and
                   deploying scalable, high-performance web applications.
                   Specialized in React.js, Next.js, Node.js, and modern DevOps
                   practices. Passionate about creating intuitive interfaces and

@@ -288,7 +288,7 @@ const Skills = () => {
             }}
           >
             {[
-              { label: "Years of Experience", value: "4+" },
+              { label: "Years of Experience", value: "5" },
               { label: "Projects Completed", value: "10+" },
               { label: "Technologies Mastered", value: "30+" },
               { label: "Happy Clients", value: "∞" },

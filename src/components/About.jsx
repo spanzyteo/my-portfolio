@@ -18,7 +18,7 @@ const About = () => {
     },
     {
       icon: <TimelineIcon sx={{ fontSize: "1.75rem" }} />,
-      title: "4+ Years Experience",
+      title: "5 Years Experience",
       description:
         "Delivering scalable, high-performance products for startups and established teams.",
     },
@@ -139,7 +139,7 @@ const About = () => {
                   >
                     Theophilus Confidence
                   </Box>
-                  , a Full-Stack Software Developer with over four years of
+                  , a Full-Stack Software Developer with five years of
                   experience building scalable, high-performance web
                   applications.
                 </Typography>

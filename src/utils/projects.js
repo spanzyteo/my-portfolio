@@ -1,10 +1,8 @@
 import sneakersCart from "../images/sneakers-cart.png";
 import exerciseApp from "../images/exercise-app.png";
 import youtubeV3 from "../images/youtube-v3.png";
-import mernEstate from "../images/mern-estate.png";
 import fifaStream from "../images/fifa-stream.png";
 import furniture from "../images/furniture.png";
-import extreme from "../images/extreme-img.png";
 import jiamuqu from "../images/jiamuqu.png";
 import doughnation from "../images/doughnation.png";
 import jglobal from "../images/jglobal.png"
@@ -24,7 +22,7 @@ export const projects = [
     image: furniture,
     description:
       "Developed an ecommerce furniture platform using Next.js, TypeScript, and Tailwind CSS. The site features a dynamic product catalog, a responsive shopping cart, and an admin page for managing products and orders. Currently focused on enhancing user experience with interactive UI elements and scalable architecture.",
-    link: "https://furniture-cart-inky.vercel.app/",
+    link: "https://princem-fc.com",
   },
   {
     id: 2,
